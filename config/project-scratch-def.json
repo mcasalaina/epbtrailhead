@@ -1,0 +1,8 @@
+{
+    "orgName": "Einstein Prediction Builder Trailhead",
+    "description": "epb",
+    "template": "0TTB00000011Bmf",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
