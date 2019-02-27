@@ -2,7 +2,10 @@
     "orgName": "Einstein Prediction Builder Trailhead",
     "description": "epb",
     "template": "0TTB00000011Bmf",
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
-    }
+    "settings": {
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": true,
+            "s1EncryptedStoragePref2": false,
+            "selfSetPasswordInApi": true
+      }
 }
