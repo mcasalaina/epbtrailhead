@@ -1,12 +1,18 @@
 {
-    "orgName": "Einstein Prediction Builder Trailhead",
-    "description": "epb",
-    "template": "0TT1U000008boRr",
-    "settings": {
-        "orgPreferenceSettings": {
-            "s1DesktopEnabled": true,
-            "s1EncryptedStoragePref2": false,
-            "selfSetPasswordInApi": true
+  "orgName": "Einstein Prediction Builder Trailhead",
+  "description": "epb",
+  "template": "0TT1U000008boRr",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "securitySettings": {
+      "passwordPolicies": {
+        "enableSetPasswordInApi": true
       }
     }
+  }
 }
